@@ -29,20 +29,19 @@ TestGPT focuses on two critical, often overlooked, areas in software testing:
 
 TestGPT operates through an intelligent, two-step process:
 
-1. **Intelligent Specification Enhancement (System Model Generation):** This
-   phase leverages advanced AI capabilities to analyze your existing,
-   human-focused documentation, such as product specifications, feature
-   requests, user stories, and feedback. Through this analysis, TestGPT builds a
-   comprehensive **System Model**—a deep understanding of the software product.
-   This model identifies key elements, requirements, and behaviors, forming the
-   foundation for robust testing.
-2. **Rapid Test Asset Generation:** Once the System Model is established and
-   requirements are aligned, TestGPT automatically creates detailed test
-   strategies and executable test cases. This process dramatically accelerates
-   your testing efforts, delivering comprehensive test suites in **minutes
-   instead of months or weeks**. The output is a ready-to-use test suite,
-   designed for seamless integration into your existing testing tools and
-   workflows.
+1. **Intelligent Specification Enhancement (TIM Generation):** This phase
+   leverages advanced AI capabilities to analyze your existing, human-focused
+   documentation, such as product specifications, feature requests, user
+   stories, and feedback. Through this analysis, TestGPT builds a comprehensive
+   **Testing Intelligence Modeler™ (TIM)**—a deep understanding of the software
+   product. This model identifies key elements, requirements, and behaviors,
+   forming the foundation for robust testing.
+2. **Rapid Test Asset Generation:** Once the TIM is established and requirements
+   are aligned, TestGPT automatically creates detailed test strategies and
+   executable test cases. This process dramatically accelerates your testing
+   efforts, delivering comprehensive test suites in **minutes instead of months
+   or weeks**. The output is a ready-to-use test suite, designed for seamless
+   integration into your existing testing tools and workflows.
 
 ## For Developers
 
