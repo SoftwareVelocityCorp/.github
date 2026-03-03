@@ -91,7 +91,7 @@ With TestGPT, we empower teams to achieve:
 Visit our parent company website to discover more about our mission and how
 TestGPT can transform your software development lifecycle:
 
-🌐 [software-velocity.com](https://software-velocity.com/)
+🌐 [svctestgpt.com](https://svctestgpt.com/)
 
 Thank you for your interest in Software Velocity Corp. We look forward to
 helping you achieve unparalleled software velocity!
